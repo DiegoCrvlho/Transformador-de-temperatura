@@ -1,0 +1,54 @@
+.title {
+    font-size: 30px;
+    margin-top: 0;
+}
+
+body {
+    background-image: linear-gradient(to top left, #59dad3 0%, #55d1c9 100%);
+    font-family: lato;
+    padding: 20px;
+}
+
+div {
+    text-align: center;
+    background-color: #90e0ef;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 36px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    max-width: 500px;
+    border-radius: 7px;
+}
+
+hr {
+    width: 80%;
+    background-color: black;
+}
+
+.button1,
+.button2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: none;
+}
+
+.converterCelsius {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.converterFahrenheit {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.copywrite {
+    text-align: center;
+}
